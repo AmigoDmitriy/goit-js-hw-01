@@ -1,1 +1,1 @@
-function getShippingMessage() {}
+function getShippingMessage(country, price, deliveryFee) {}
